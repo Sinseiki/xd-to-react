@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de0d49f6.chunk.css",
+    "main.js": "/static/js/main.c88dde27.chunk.js",
+    "main.js.map": "/static/js/main.c88dde27.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e3b628c5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e3b628c5.js.map",
+    "static/js/2.9c29d8cb.chunk.js": "/static/js/2.9c29d8cb.chunk.js",
+    "static/js/2.9c29d8cb.chunk.js.map": "/static/js/2.9c29d8cb.chunk.js.map",
+    "static/js/3.99318b88.chunk.js": "/static/js/3.99318b88.chunk.js",
+    "static/js/3.99318b88.chunk.js.map": "/static/js/3.99318b88.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.de0d49f6.chunk.css.map": "/static/css/main.de0d49f6.chunk.css.map",
+    "static/js/2.9c29d8cb.chunk.js.LICENSE.txt": "/static/js/2.9c29d8cb.chunk.js.LICENSE.txt",
+    "static/media/afroAfroHairBeautiful1996250.png": "/static/media/afroAfroHairBeautiful1996250.6f973a57.png",
+    "static/media/fc8cc65f046eeb0b9efb159aad932e2b.png": "/static/media/fc8cc65f046eeb0b9efb159aad932e2b.df8fc0ce.png",
+    "static/media/fc8cc65f046eeb0b9efb159aad932e2b9677f8f9.png": "/static/media/fc8cc65f046eeb0b9efb159aad932e2b9677f8f9.df8fc0ce.png",
+    "static/media/book2.css": "/static/media/x2.589cf22c.png",
+    "static/media/home.css": "/static/media/x58.94002aa2.png",
+    "static/media/plan.css": "/static/media/x60.b5b42e41.png",
+    "static/media/book1.css": "/static/media/x63.ad7b958c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3b628c5.js",
+    "static/js/2.9c29d8cb.chunk.js",
+    "static/css/main.de0d49f6.chunk.css",
+    "static/js/main.c88dde27.chunk.js"
+  ]
+}
