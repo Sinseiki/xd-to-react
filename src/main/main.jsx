@@ -29,8 +29,8 @@ class Main extends React.Component {
             <svg data-layer="6475ef7f-bc36-4be1-9dd0-27ce1b627f0d" preserveAspectRatio="none" viewBox="0 -0.5 416.0435791015625 1" className="x89"><path d="M 0 0 L 416.04345703125 0"  /></svg>
             <div data-layer="6e56140e-272b-41b1-a72e-892c2804aa64" className="account">Account</div>
             <div data-layer="ba2d9d00-3d9b-4269-ac8f-3011a32876f5" className="notifications">Notifications</div>
-            <Link to="book1"><div data-layer="b2abf3a5-0228-47d0-95e6-86aba542444d" className="myBookings">My Bookings</div></Link>
-            <Link to="plan"><div data-layer="ba426ef8-8f60-4378-81d9-b105e2cef013" className="myPlan">My Plan</div></Link>
+            <Link to="/book1"><div data-layer="b2abf3a5-0228-47d0-95e6-86aba542444d" className="myBookings">My Bookings</div></Link>
+            <Link to="/plan"><div data-layer="ba426ef8-8f60-4378-81d9-b105e2cef013" className="myPlan">My Plan</div></Link>
             <div data-layer="ec43dbfa-0bbb-4ddc-bd70-d0da97bcdf04" className="addresses">Addresses</div>
             <div data-layer="1d5176c3-e2ec-425c-be0f-92cba959862d" className="share">Share</div>
             <div data-layer="5743de1b-83c3-4ad6-a5f3-d4a0420895c3" className="facebook">Facebook</div>
